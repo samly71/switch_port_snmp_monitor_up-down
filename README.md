@@ -1,0 +1,2 @@
+# switch_port_snmp_monitor_up-down
+switch_port_snmp_monitor_up|down
