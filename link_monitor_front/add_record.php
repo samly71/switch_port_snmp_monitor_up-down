@@ -20,6 +20,7 @@ td {text-align: center;}
     <a href="index.php">返回首页 链路管理平台</a>
 </div
 
+<?php $sql_arr = array() ?>
 
 <form action="action_add_record.php" method="post">
 
